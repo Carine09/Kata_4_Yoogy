@@ -1,0 +1,12 @@
+body {
+  font-family: "Inter Tight", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+img {
+  width: 300px;
+  height: auto;
+  border-radius: 20px;
+}
